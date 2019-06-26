@@ -1,0 +1,21 @@
+{
+  "name": "webdb-iii-challenge",
+  "version": "1.0.0",
+  "description": " Web DB III Module Challenge",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "repository": "https://github.com/LambdaSchool/webdb-iii-challenge.git",
+  "author": "Chazaray Robinson",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.18.0",
+    "knex": "^0.18.0",
+    "sqlite3": "^4.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
