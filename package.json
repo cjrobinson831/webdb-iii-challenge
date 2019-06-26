@@ -6,7 +6,7 @@
   "scripts": {
     "server": "nodemon index.js"
   },
-  "repository": "https://github.com/LambdaSchool/webdb-iii-challenge.git",
+  "repository": "https://github.com/cjrobinson831/webdb-iii-challenge",
   "author": "Chazaray Robinson",
   "license": "MIT",
   "dependencies": {
